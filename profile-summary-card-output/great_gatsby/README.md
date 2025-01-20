@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Willmo3/Willmo3/main/profile-summary-card-output/great_gatsby/4-productive-time.svg)
+```
+
+    
